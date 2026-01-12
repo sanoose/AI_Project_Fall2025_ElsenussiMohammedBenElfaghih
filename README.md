@@ -53,6 +53,7 @@ uvicorn api_server:app --host 127.0.0.1 --port 8000 --reload
 
 ### Frontend (Vue)
 ### Setup & Run
+#node js 20+ is required
 cd frontEnd
 npm install
 npm run dev
